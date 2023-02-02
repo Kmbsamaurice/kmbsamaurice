@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eng Samuel Kakembo</h1>
 <h3 align="center">A Fullstack JavaScript, PHP and mobile app developer</h3>
 
-/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmbsamaurice" alt="kmbsamaurice" /></a> </p>*/
 
 - 💬 Ask me about **Flutter, Javascript, Vue, Android-Kotlin, Laravel, PHP, CodeIgniter, React, Graphics**
 
-- 📫 How to reach me **kmbsamaurice@gmail.com**
+- 📫 How to reach me **kmbsamaurice@gmail.com | +256784 912802 | +256752 075362**
 </br></br>
 <h3 align="left">Connect with me:</h3>
 </br>
